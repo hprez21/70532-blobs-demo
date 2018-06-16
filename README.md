@@ -1,4 +1,4 @@
-# 70532-blobs-demo
+<h1>Código Fuente tratando el tema de Microsoft Azure: Blobs</h1>
 
 Este ejemplo, es el código fuente del curso <a href="https://www.udemy.com/70532-azure-espanol/?couponCode=PROMO10DLS2">70-532 Developing Microsoft Azure Solutions en Español</a>, que puedes adquirir hoy mismo por sólo 10 dólares.
 
